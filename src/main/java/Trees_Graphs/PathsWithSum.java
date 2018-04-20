@@ -14,7 +14,7 @@ import Trees_Graphs.helper.BinaryTreeNode;
  * Solution:
  *  > Iterate on both sides the tree, at each node count the paths with given target,.
  *    The count of paths starting from a specific node can be done by traversing the tree on both ways, and
- *    recursively adding the sum of node values. If path == target add 1 to the final result else add nothing.
+ *    recursively adding the sum of node values. If path == target put 1 to the final result else put nothing.
  */
 public class PathsWithSum {
     public static int countPathsOfSum(int targetSum, BinaryTreeNode<Integer> node) {
