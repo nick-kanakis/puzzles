@@ -6,7 +6,7 @@ import java.util.Stack;
 
 /**
  * Question:
- * Implement a function to check if a linkedin list is a palindrome.
+ * Implement a function to check if a linked list is a palindrome.
  * <p>
  * Mistakes:
  * - A permutation is not ANAN but ANNA

@@ -15,7 +15,6 @@ package Arrays;
  * > Do not try to solve it with one function, tackle each case separately.
  * > The checkInsert is tricky, keep in mind to move the pointer of smaller only if there is no problem
  *
- *
  * Solution:
  * First check if the strings length diff is more than 2, or if they are equal.
  *

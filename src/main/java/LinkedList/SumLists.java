@@ -78,7 +78,6 @@ public class SumLists {
         } else {
             return previousResult.addHead(result, false);
         }
-
     }
 
     private static int lengthOfList(LinkedListNode current) {
