@@ -5,8 +5,10 @@ import Trees_Graphs.helper.BinaryTreeNode;
 /**
  * Question:
  *  Implement a function to check if a binary tree is a binary search tree
+ *
  * Mistakes:
  *  -
+ *
  * Solution:
  *  Check if node is within min, max, then recursively check if left child is within (min, node value) and
  *  right child is within (node value, max).
