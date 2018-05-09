@@ -9,7 +9,7 @@ import java.util.Iterator;
  * The class should use a generic type and support iteration.
  *
  * Mistakes:
- * > Iterator implementation, use a int poitner and increment it with each next
+ * > Iterator implementation, use a int pointer and increment it with each next
  * > Watch the use of (size) & (size - 1)
  *
  * Solution:
