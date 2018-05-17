@@ -10,6 +10,7 @@ import java.util.Iterator;
  *
  * Mistakes:
  * > Iterator implementation, use a int pointer and increment it with each next
+ * > Keep track of the size
  * > Watch the use of (size) & (size - 1)
  *
  * Solution:
@@ -80,11 +81,7 @@ public class CircularArray<T> implements Iterable<T>{
         @Override
         public T next() {
             index++;
-            if(index > (size - 1)) {
-                index = index%(size -1);
-            }
-
-            return underlyingArray.get(index);
+            return (T) underlyingArray.get(calculatePosition(index));
         }
 
         @Override

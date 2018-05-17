@@ -19,7 +19,7 @@ import java.util.List;
  * 1) Create a map of counts for the same chars.
  * 2) For each char in the map do the following:
  *  2.0) if length == 0 stop the recursive call and add the prefix to the list
- *  2.1) if char count > 0 count --
+ *  2.1) if char count > 0 count--
  *  2.2) recursively call the function for the new (decreased map), with a prefix = prefix + the current character, length - 1
  *  2.3) restore the count of the char for next character
  *
