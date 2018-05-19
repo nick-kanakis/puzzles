@@ -13,7 +13,7 @@ import java.util.Stack;
  *
  * Solution:
  *  Use an additional stack to keep track of the min. When push is called if the secondary stack's top element is bigger
- *  that the new element insert it there as well. When pop is called the popped element is removed and from the secondary stack
+ *  that the new element insert it there as well. When pop is called the popped element is removed from the secondary stack
  *  (if it is at the top).
  */
 public class StackMin {

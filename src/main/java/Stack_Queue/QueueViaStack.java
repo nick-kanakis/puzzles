@@ -10,8 +10,8 @@ import Stack_Queue.helper.MyStack;
  *
  * Solution:
  *  newElementsStack is used to store elements that are inserted to the queue. When we need to dequeue/peek the queue, we
- *  always use oldElementsStack. If oldElementsStack is empty we push everything from newElementsStack --> oldElementsStack. If oldElementsStack
- *  is not empty (from a previous shift of elements) we just pop/peek the top element.
+ *  always use oldElementsStack. If oldElementsStack is empty we push everything from newElementsStack --> oldElementsStack.
+ *  If oldElementsStack is not empty (from a previous shift of elements) we just pop/peek the top element.
  */
 public class QueueViaStack {
     MyStack<Integer> newElementsStack = new MyStack<>();

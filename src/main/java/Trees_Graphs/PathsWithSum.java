@@ -12,8 +12,9 @@ import Trees_Graphs.helper.BinaryTreeNode;
  * > Paths of sum can start at all nodes,  DO NOT examine only the case where you start from the root!!!
  *
  * Solution:
- *  > Iterate on both sides the tree, at each node count the paths with given target.
- *    The count of paths starting from a specific node can be done by traversing the tree on both ways, and
+ *  1) For every node in the tree, (consider it as the start of the path) count the paths that sum to the target
+ *
+ *  2) The count of paths starting from a specific node can be done by traversing the tree on both sides, and
  *    recursively adding the sum of node values. If path == target put 1 to the final result else put nothing.
  */
 public class PathsWithSum {

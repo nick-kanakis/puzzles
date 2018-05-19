@@ -10,7 +10,7 @@ import java.util.Stack;
  * <p>
  * Mistakes:
  * - A permutation is not ANAN but ANNA
- * - We do not not need to know the size of the list we can use the fast/slow pointer technique.
+ * - We do not need to know the size of the list we can use the fast/slow pointer technique.
  * - Do not forget to move the slow/fast pointer (and cause an infinite loop)
  * - Watch for null pointer exc. when working with slow/fast ptr
  * <p>
