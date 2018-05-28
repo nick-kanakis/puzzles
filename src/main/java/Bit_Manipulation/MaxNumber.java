@@ -1,7 +1,7 @@
 package Bit_Manipulation;
 
 /**
- * Question:
+ * (CTCI 16.7) Question:
  *  Write a method that finds the max of 2 numbers, you cannot use if-else or any other comparison operator.
  *
  * Mistakes:

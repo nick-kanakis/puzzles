@@ -5,12 +5,12 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Question:
+ * (CTCI 16.21) Question:
  *      Given 2 arrays of integers, find a pair of values (one from each array) that you can swap to give the 2 arrays
  *      the same sum
  *
  * Mistakes:
- *  - The brute force is easy try to solve it in O(n)!!
+ *  - The brute force is easy, try to solve it in O(n)!!
  *
  * Solution:
  *  - This equation must be true : sumA - a + b = sumB - b + a <=> a - b = (sumA - sumB)/2

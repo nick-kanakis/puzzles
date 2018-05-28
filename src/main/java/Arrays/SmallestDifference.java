@@ -2,7 +2,7 @@ package Arrays;
 import java.util.Arrays;
 
 /**
- * Question:
+ * (CTCI 16.6) Question:
  *  Given 2 arrays of integers compute the pair of values (one from each array) with the smallest (non - negative) difference
  *
  * Mistakes:

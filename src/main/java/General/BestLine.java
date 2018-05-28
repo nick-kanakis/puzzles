@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.List;
 
 /**
- * Question:
+ * (CTCI 16.14) Question:
  * Given a 2 dimensional graph with points on it, find a line which passes the most number of points.
  *
  * Mistakes:

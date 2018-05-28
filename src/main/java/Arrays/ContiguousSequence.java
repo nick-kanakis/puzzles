@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Question:
+ * (CTCI 16.17) Question:
  *  You are given an array of integers (positive & negative). Find the contiguous sequence with the largest sum.
  *
  * Mistakes:

@@ -1,7 +1,7 @@
 package General;
 
 /**
- * Question:
+ * (CTCI 16.18) Question:
  *  Given 2 strings, pattern and value, write a method to determine if value matches pattern. The pattern string consists of
  *  just a,b
  *  eg: catcatgocatgo = aabab = ab = a = b

@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Question:
+ * (CTCI 16.10) Question:
  *      Given a list of people with their birth and death years, implement a method to compute the year with the most
  *      number of people alive. You may assume that all people were born between 1900 - 2000. If a person was alive in 1908
  *      and died in 1909 is included as alive in both 1908 & 1909

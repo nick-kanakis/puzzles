@@ -6,12 +6,12 @@ import java.util.HashMap;
 import java.util.Objects;
 
 /**
- * Question:
+ * (CTCI 16.25) Question:
  *  Design and build a least recently used cache, which evicts the least recently used item. The cache should be map from
  *  key to valeue an be initialized with a max size. When it is full the least recently used item should be evicted.
  *
  * Mistakes:
- *  - When head = null do not forget to return at the end (and also increase the current size!
+ *  - When head = null do not forget to return at the end (and also increase the current size)!
  *  - When moving to head a node do not remove this one and create another one, this create inconsistencies.
  *    Also if this node is tail update tail!
  *

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Question:
+ * (CTCI 16.11) Question:
  *  You are building a diving board by placing planks end to end. There are 2 types of planks sort and long. You can use
  *  exactly K planks of wood. Write a method to generate all possible lengths.
  *

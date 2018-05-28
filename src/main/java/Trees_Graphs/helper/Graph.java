@@ -13,12 +13,12 @@ public class Graph<T> {
         this.nodes = new ArrayList<>();
     }
 
-    public void add(Node<T> project) {
-        nodes.add(project);
+    public void add(Node<T> node) {
+        nodes.add(node);
     }
 
-    public void remove(Node<T> project){
-        nodes.remove(project);
+    public void remove(Node<T> node){
+        nodes.remove(node);
     }
 
     public List<Node<T>> getAllNodes(){
