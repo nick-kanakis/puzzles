@@ -1,12 +1,11 @@
 package Sorting_Searching.RankFromStream;
 
 /**
- * Question:
+ * (CTCI 10.9) Question:
  *  You are reading a stream of integers. Implement the method track(int x) which is called each time a new number is
- *  generated, and the method gtRankOfNumber(int x) which returns the number of values less than or equal to x (excluding x)
+ *  generated, and the method getRankOfNumber(int x) which returns the number of values less than or equal to x (excluding x)
  *
  * Mistakes:
- *
  *
  * Solution:
  *  Create a BST that each node represent a generated number.

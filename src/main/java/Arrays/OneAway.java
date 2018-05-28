@@ -2,7 +2,7 @@ package Arrays;
 
 
 /**
- * Question: There are 3 types of edits that can be performed on strings: insert a char, remove a char or replace a char.
+ * (CTCI 1.5) Question: There are 3 types of edits that can be performed on strings: insert a char, remove a char or replace a char.
  * Given 2 strings write a function to check if they are one edit away.
  *
  * eg:

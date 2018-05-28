@@ -3,7 +3,7 @@ package LinkedList;
 import LinkedList.helper.LinkedListNode;
 
 /**
- * Question:
+ * (CTCI 2.8) Question:
  *  Given a circular linked list, implement an algorithm that returns the node at the beginning of the loop.
  *  eg:
  *                 8 <- 7  <- 6

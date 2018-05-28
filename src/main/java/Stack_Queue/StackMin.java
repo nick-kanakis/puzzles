@@ -5,7 +5,7 @@ import Stack_Queue.helper.MyStack;
 import java.util.Stack;
 
 /**
- * Question:
+ * (CTCI 3.2) Question:
  *  How would you design a stack which, in addition to push & pop has a min function that which returns the minimum element.
  *  Push/Pop/Min should all operate in O(1)
  *

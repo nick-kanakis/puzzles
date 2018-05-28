@@ -1,14 +1,13 @@
 package Recursion;
 
 /**
- * Question:
+ * (CTCI 8.3) Question:
  *  A magic index in an array is defined to be an index such that A[i] = i. Given a sorted array of non-distinct integers write
  *  a method to find the magic index if it exists.
  *
  * Mistakes:
  *
  * Solution:
- *
  *  If A[i] == i
  *      You found the solution
  *  If A[i] > i

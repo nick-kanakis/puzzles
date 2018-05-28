@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * Question:
+ * (CTCI 8.2) Question:
  *  A robot sits on the upper left corner of a grid with r rows & c columns. The robot moves down & right, certain
  *  cells are off limits. Design an algorithm to find a path for the robot from top left to bottom right.
  *

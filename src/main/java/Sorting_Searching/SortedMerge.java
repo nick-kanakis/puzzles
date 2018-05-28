@@ -1,7 +1,7 @@
 package Sorting_Searching;
 
 /**
- * Question:
+ * (CTCI 10.1) Question:
  *
  *  You are given 2 sorted arrays, A & B, where A has a large enough buffer at the end to hold B. Write a method
  *  to merge B into A in sorted order.
@@ -35,6 +35,5 @@ public class SortedMerge {
             }
             pointerMerged --;
         }
-
     }
 }

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 /**
- * Question:
+ * (CTCI 7.9) Question:
  * Implement a circular array class that supports an array-like data structure which can be efficiently rotated.
  * The class should use a generic type and support iteration.
  *

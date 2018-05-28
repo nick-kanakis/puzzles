@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 
 /**
- * Question:
+ * (CTCI 8.13) Question:
  *  Given a stack of n boxes with width, height and depth that can only be stack on top of each other (without rotations) but
  *  the box below must be bigger in all dimension. Implement a method to compute the tallest stack of boxes.
  *

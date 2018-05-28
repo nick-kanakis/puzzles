@@ -5,11 +5,11 @@ import LinkedList.helper.LinkedListNode;
 import java.util.Stack;
 
 /**
- * Question:
+ * (CTCI 2.6) Question:
  * Implement a function to check if a linked list is a palindrome.
  * <p>
  * Mistakes:
- * - A permutation is not ANAN but ANNA
+ * - A palindrome is not ANAN but ANNA (this is a permutation)
  * - We do not need to know the size of the list we can use the fast/slow pointer technique.
  * - Do not forget to move the slow/fast pointer (and cause an infinite loop)
  * - Watch for null pointer exc. when working with slow/fast ptr

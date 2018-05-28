@@ -1,7 +1,7 @@
 package Bit_Manipulation;
 
 /**
- * Question:
+ * (CTCI 5.2) Question:
  *  Given a real number between 0 - 1 (0.72) that is passed in as a double, print the binary representation. If
  *  the number cannot be represented accurately in binary with at most 32 characters print "ERROR"
  *

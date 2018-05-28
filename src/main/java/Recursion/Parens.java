@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Question:
+ * (CTCI 8.9) Question:
  *  Implement an algorithm to print all valid combinations of n pairs of parentheses.
  *
  * Mistakes:

@@ -4,12 +4,11 @@ package Recursion;
 import java.util.ArrayList;
 
 /**
- * Question:
+ * (CTCI 8.12) Question:
  *  Write an algorithm to print all ways of arranging 8 queens on an 8x8 chess board so that none of them share the same
  *  row, column or diagonal.
  *
  * Mistakes:
- *
  *
  * Solution:
  *      Create an array of 8 cells, each cell represents a row in the board, the value inside is the column we place the queen

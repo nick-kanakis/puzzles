@@ -3,7 +3,7 @@ package Trees_Graphs;
 import Trees_Graphs.helper.BinaryTreeNode;
 
 /**
- * Question:
+ * (CTCI 4.2) Question:
  *  Given a sorted (increasing order) array with unique integer elements, write an algorithm to create a binary search
  *  tree with minimal height.
  *

@@ -1,7 +1,7 @@
 package Recursion.TowersOfHanoi;
 
 /**
- * Question:
+ * (CTCI 8.6) Question:
  *      Hanoi towers game.
  *
  * Mistakes:

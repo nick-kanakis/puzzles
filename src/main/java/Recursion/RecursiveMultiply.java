@@ -1,7 +1,7 @@
 package Recursion;
 
 /**
- * Question:
+ * (CTCI 8.5) Question:
  *  Write a recursive function to multiply 2 positive integers without using the '*'. You can use +, -, >>, << etc.
  *  You should minimize the number of those operations
  *

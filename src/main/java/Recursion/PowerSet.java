@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 
 /**
- * Question:
+ * (CTCI 8.4) Question:
  *  Write a method to return all subsets of a set. eg: a,b,c returns: {},{a},{b},{c},{ab},{ac},{bc},{abc}
  *
  * Mistakes:

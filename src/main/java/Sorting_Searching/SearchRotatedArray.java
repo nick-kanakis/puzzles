@@ -1,7 +1,7 @@
 package Sorting_Searching;
 
 /**
- * Question:
+ * (CTCI 10.3) Question:
  *  Given a sorted array of n integers that has been rotated, write code to find an element in the array.
  *
  * Mistakes:

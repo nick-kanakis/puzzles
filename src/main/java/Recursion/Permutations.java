@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * ###SOS###
  *
- * Question:
+ * (CTCI 8.8) Question:
  * Write a method to compute all permutations of a string whose characters are not necessarily unique. The resulted
  * list should not have duplicates
  *

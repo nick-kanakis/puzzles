@@ -1,7 +1,7 @@
 package Arrays;
 
 /**
- * Question:
+ * (CTCI 1.7) Question:
  *  Given an image represented by NxN matrix, write a method to rotate the image by 90 degrees. Can you do it in place
  *
  * Mistakes:
